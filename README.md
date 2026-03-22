@@ -36,6 +36,8 @@ Focado no **controle administrativo e análise de dados**.
 - [x] **Monitoramento de Mortalidade:** Impacto financeiro automático nas perdas do lote.
 - [x] **Dashboard Gerencial:** Visualização rápida da saúde financeira da criação.
 
+
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas (Exemplo)
@@ -43,6 +45,6 @@ Focado no **controle administrativo e análise de dados**.
 * **Linguagem:** PHP
 * **Servidor Web:** Nginx
 * **Banco de Dados:** MySQL
-* **Ambiente:** Docker
+* **Ambiente:** Docker 
 
 ---
