@@ -29,7 +29,7 @@ Focado no **controle administrativo e análise de dados**.
 
 ---
 
-## 🚀 Funcionalidades Principais
+##  Funcionalidades Principais
 
 - [x] **Cálculo de Custo por Objetivo:** Diferentes tratos possuem diferentes impactos no custo final.
 - [x] **Gestão de Sanidade:** Histórico de vacinas e manejos por lote.
