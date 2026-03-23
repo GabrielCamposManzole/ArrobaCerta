@@ -28,8 +28,8 @@ Focado no **controle administrativo e análise de dados**.
     * **Custo por Lote (Ciclo Completo):** Relatório detalhado desde a aquisição até a comercialização.
 
 ---
-
-##  Funcionalidades Principais
+            
+## 🚀 Funcionalidades Principais
 
 - [x] **Cálculo de Custo por Objetivo:** Diferentes tratos possuem diferentes impactos no custo final.
 - [x] **Gestão de Sanidade:** Histórico de vacinas e manejos por lote.
